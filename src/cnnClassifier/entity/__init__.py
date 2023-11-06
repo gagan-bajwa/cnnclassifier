@@ -1,1 +1,1 @@
-from cnnClassifier.entity.config_entity import DataIngestionConfig,PrepareCallbacksConfig,TrainingConfig,PrepareBaseModelConfig
+from cnnClassifier.entity.config_entity import DataIngestionConfig,PrepareCallbacksConfig,TrainingConfig,PrepareBaseModelConfig,EvaluationConfig
